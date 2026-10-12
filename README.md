@@ -116,7 +116,7 @@
 
 ## 🔗 Ссылки
 
-- **Репозиторий:** [github.com/ai-harta](https://github.com/ai-harta)
+- **Репозиторий:** [github.com/AiAndUser/ai-harta](https://github.com/AiAndUser/ai-harta)
 - **Лицензия:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
@@ -135,7 +135,7 @@
 
 1. ⭐ Поставьте звезду этому репозиторию.
 2. 🍴 Сделайте форк и предложите улучшения.
-3. 📢 Поделитесь ссылкой на репозиторий [github.com/ai-harta](https://github.com/ai-harta).
+3. 📢 Поделитесь ссылкой на репозиторий [github.com/AiAndUser/ai-harta](https://github.com/AiAndUser/ai-harta).
 
 ---
 
